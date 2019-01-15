@@ -1,5 +1,5 @@
-num = +process.argv[2];
+let num = +process.argv[2];
 
-answer = num * num;
+let answer = num * num;
 
 console.log(answer);
